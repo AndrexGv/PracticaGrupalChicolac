@@ -32,7 +32,9 @@ class Program
     // Opcion 1 (la programa A)
     static void Saludo()
     {
-        Console.WriteLine("En construccion");
+        Console.Write("Por favor Ingresa Tu nombre: ");
+        string nombre= Console.ReadLine();
+        Console.WriteLine($"Hola, {nombre}.Bienvenid@ al Equipo Chicolac");
     }
 
     // Opcion 2 (la programa B)
