@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PersonaC": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
