@@ -61,6 +61,11 @@ class Program
     // Opcion 4 (la programa D)
     static void Tabla()
     {
-        Console.WriteLine("En construccion");
+        Console.Write("Ingresa un numero: ");
+        int n = int.Parse(Console.ReadLine());
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine(n + " x " + i + " = " + (n * i));
+        }
     }
 }
