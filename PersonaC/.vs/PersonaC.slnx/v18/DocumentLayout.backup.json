@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgramacionFundamental\\PracticaGrupalChicolac\\PracticaGrupalChicolac\\PersonaC\\",
+  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgrmacionFundamental\\PracticaGrupalChicolac\\PersonaC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51D85030-1F75-2C44-E581-9799F91BB55C}|PersonaC\\PersonaC.csproj|c:\\users\\unifranz-fexco\\desktop\\programacionfundamental\\practicagrupalchicolac\\practicagrupalchicolac\\personac\\personac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51D85030-1F75-2C44-E581-9799F91BB55C}|PersonaC\\PersonaC.csproj|c:\\users\\unifranz-fexco\\desktop\\progrmacionfundamental\\practicagrupalchicolac\\personac\\personac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51D85030-1F75-2C44-E581-9799F91BB55C}|PersonaC\\PersonaC.csproj|solutionrelative:personac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51D85030-1F75-2C44-E581-9799F91BB55C}|PersonaC\\PersonaC.csproj|c:\\users\\unifranz-fexco\\desktop\\programacionfundamental\\practicagrupalchicolac\\practicagrupalchicolac\\personac\\personac\\personac.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{51D85030-1F75-2C44-E581-9799F91BB55C}|PersonaC\\PersonaC.csproj|c:\\users\\unifranz-fexco\\desktop\\progrmacionfundamental\\practicagrupalchicolac\\personac\\personac\\personac.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{51D85030-1F75-2C44-E581-9799F91BB55C}|PersonaC\\PersonaC.csproj|solutionrelative:personac\\personac.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PersonaC",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgramacionFundamental\\PracticaGrupalChicolac\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\PersonaC.csproj",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgrmacionFundamental\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\PersonaC.csproj",
               "RelativeDocumentMoniker": "PersonaC\\PersonaC.csproj",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgramacionFundamental\\PracticaGrupalChicolac\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\PersonaC.csproj",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgrmacionFundamental\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\PersonaC.csproj",
               "RelativeToolTip": "PersonaC\\PersonaC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-17T12:13:51.283Z"
@@ -35,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgramacionFundamental\\PracticaGrupalChicolac\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgrmacionFundamental\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\Program.cs",
               "RelativeDocumentMoniker": "PersonaC\\Program.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgramacionFundamental\\PracticaGrupalChicolac\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\Program.cs",
-              "RelativeToolTip": "PersonaC\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\ProgrmacionFundamental\\PracticaGrupalChicolac\\PersonaC\\PersonaC\\Program.cs*",
+              "RelativeToolTip": "PersonaC\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T12:10:14.511Z",
               "EditorCaption": ""
