@@ -32,7 +32,9 @@ class Program
     // Opcion 1 (la programa A)
     static void Saludo()
     {
-        Console.WriteLine("En construccion");
+        Console.Write("Por favor Ingresa Tu nombre: ");
+        string nombre= Console.ReadLine();
+        Console.WriteLine($"Hola, {nombre}.Bienvenid@ al Equipo Chicolac");
     }
 
     // Opcion 2 (la programa B)
@@ -44,12 +46,26 @@ class Program
     // Opcion 3 (la programa C)
     static void ParImpar()
     {
-        Console.WriteLine("En construccion");
+        Console.WriteLine("Ingrese un numero: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+        if (num % 2 ==0)
+        {
+            Console.WriteLine($"El {num} es par.");
+        }
+        else
+        {
+            Console.WriteLine($"El numero {num} es impar.");
+        }
     }
 
     // Opcion 4 (la programa D)
     static void Tabla()
     {
-        Console.WriteLine("En construccion");
+        Console.Write("Ingresa un numero: ");
+        int n = int.Parse(Console.ReadLine());
+        for (int i = 1; i <= 10; i++)
+        {
+            Console.WriteLine(n + " x " + i + " = " + (n * i));
+        }
     }
 }
