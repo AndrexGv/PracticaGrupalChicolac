@@ -3,3 +3,4 @@ Gonzalo Andre Galarza Vargas
 Nicole Cameli Chavez Ajhuacho
 Mauricio Gabriel Terrazas Gomez
 Johana Candida Granado Huarcaya
+Dorian Bernal
